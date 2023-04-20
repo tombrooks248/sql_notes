@@ -1,0 +1,6 @@
+Notes from today:
+
+If we need to create a Many to Many relationship between tables we need to implement a "Bridge Table". 
+
+In this we will have table1 1:M to Bridge table then Bridge tables M:1 to table 2. 
+
